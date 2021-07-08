@@ -9,3 +9,6 @@
 /WebAppAPI/obj
 /.vs
 /BusinessLayer/obj
+/Core/bin/Debug/net5.0
+/WebAppAPI/bin/Debug/net5.0
+/BusinessLayer/bin/Debug/net5.0
