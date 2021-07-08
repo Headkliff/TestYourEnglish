@@ -8,3 +8,4 @@
 /WebAppAPI/bin/Debug/netcoreapp3.1
 /WebAppAPI/obj
 /.vs
+/BusinessLayer/obj
